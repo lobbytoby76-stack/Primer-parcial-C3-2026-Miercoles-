@@ -10,8 +10,9 @@
 
 
 
-/* Reto 02 - Produccion: ventanas de operacion aceptable
+/* Reto 02 - Produccion: ventanas de operacion aceptable*/
  
+
 
 #include <stdio.h>                       /* Libreria para scanf y printf */
 
